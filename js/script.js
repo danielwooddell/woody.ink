@@ -939,9 +939,9 @@
         aliases: ['ai', 'artificial intelligence', 'genai', 'generative ai', 'prompt', 'prompting', 'gpt', 'chatgpt', 'copilot', 'automation'],
         kicker: 'Generative AI Strategy',
         title: 'AI Systems That Support Real Work',
-        copy: 'This pathway models AI guidance around practical use, course or content design, prompting, productivity, and responsible adoption.',
+        copy: 'This pathway models AI guidance around practical use, course or content design, prompting, productivity, and responsible adoption across teaching, learning, and professional workplace contexts.',
         systems: ['Prompting guidance', 'Educator workflows', 'Custom GPT support'],
-        primary: 'AI adoption becomes useful when it is tied to actual work. 💻',
+        primary: 'AI adoption becomes useful when it is tied to actual work💻',
         linkText: 'Launch GenAI Hub',
         linkUrl: 'https://www.xavier.edu/teachingwithtech/genai'
       },
@@ -1011,7 +1011,7 @@
         title: 'Technology Decisions Grounded in People',
         copy: 'This pathway approaches emerging technology through the lens of real users, real constraints, accessible content, trust, training, and long-term maintainability.',
         systems: ['User confidence', 'Clear communication', 'Sustainable systems'],
-        primary: 'Technology should make people more capable. ✅',
+        primary: 'Technology should make people more capable, not less. ✅',
         linkText: 'Launch WIntelligence',
         linkUrl: '#winterface'
       },
@@ -1039,7 +1039,7 @@
         title: 'Accessibility Built-in',
         copy: 'Accessibility support becomes stronger when it is connected to LMS workflows, document improvement, readable design, captions, alternative text, & guidance.',
         systems: ['Ally-informed workflows', 'Accessible LMS practices', 'Improvement pathways'],
-        primary: 'Accessibility works best as a visible workflow, not a hidden compliance task. All systems go.',
+        primary: 'Accessibility works best as a visible workflow, not a hidden compliance task. Systems go.',
         linkText: 'Launch Ally Intel',
         linkUrl: 'https://www.xavier.edu/teachingwithtech/a-z/tools/ally'
       },
